@@ -27,7 +27,7 @@ cd worktables-countries-api
 
 3. Install the dependencies using yarn.
 ```
-yarn install
+yarn
 ```
 
 4. Copy the `env.example` file and rename it to `.env`.
